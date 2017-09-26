@@ -9,6 +9,10 @@
   "keywords": [
     "cors"
   ],
+  "repository" :
+    { "type" : "git",
+       "url" : "https://github.com/saper150/suprise-cords"
+    },
   "author": "Marcin Wydrzyński",
   "license": "MIT",
   "devDependencies": {
