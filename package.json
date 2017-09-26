@@ -1,5 +1,5 @@
 {
-  "name": "suprise-cords",
+  "name": "surprise-cors",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,10 +9,10 @@
   "keywords": [
     "cors"
   ],
-  "repository" :
-    { "type" : "git",
-       "url" : "https://github.com/saper150/suprise-cords"
-    },
+  "repository" :{ 
+    "type" : "git",
+    "url" : "https://github.com/saper150/surprise-cors"
+  },
   "author": "Marcin Wydrzyński",
   "license": "MIT",
   "devDependencies": {
